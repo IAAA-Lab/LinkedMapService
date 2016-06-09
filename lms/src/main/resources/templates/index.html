@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>LINKED MAP</title>
+
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<link rel="stylesheet"
+	href="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.8.2/ol.css"
+	type="text/css"></link>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.8.2/ol.js"></script>
+<link href="./css/bootstrap.min.css" rel="stylesheet"></link>
+<link href="./css/style.css" rel="stylesheet"></link>
+<script src="./js/jquery.min.js"></script>
+<script src="./js/bootstrap.min.js"></script>
+<script src="./js/scripts.js"></script>
+<style>
+.ol-popup {
+	position: absolute;
+	background-color: white;
+	-webkit-filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));
+	filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.2));
+	padding: 15px;
+	border-radius: 10px;
+	border: 1px solid #cccccc;
+	bottom: 12px;
+	left: -50px;
+}
+
+.ol-popup:after, .ol-popup:before {
+	top: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.ol-popup:after {
+	border-top-color: white;
+	border-width: 10px;
+	left: 48px;
+	margin-left: -10px;
+}
+
+.ol-popup:before {
+	border-top-color: #cccccc;
+	border-width: 11px;
+	left: 48px;
+	margin-left: -11px;
+}
+
+.ol-popup-closer {
+	text-decoration: none;
+	position: absolute;
+	top: 2px;
+	right: 8px;
+}
+
+.ol-popup-closer:after {
+	content: "X";
+}
+
+#table-scroll {
+	width: 500px;
+	height: 100px;
+	overflow: auto;
+}
+</style>
+<meta charset="utf-8"></meta>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</meta>
+
+</head>
+<script type="text/javascript" language="javascript">
+
+    function ClearForm() {
+        document.getElementById("info-basica").reset();
+        document.getElementById("infoFull").reset();
+    }
+</script>
+<body onload="ClearForm()">
+
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+				<ul class="breadcrumb">
+					<li><a href="http://localhost:8080">Home</a> <span
+						class="divider"></span></li>
+					<li class="dropdown"><a href="#" class="dropdown-toggle"
+						data-toggle="dropdown">Documentación<strong class="caret"></strong></a>
+						<ul class="dropdown-menu">
+							<li><a
+								href="https://github.com/IAAA-Lab/LinkedMapService/tree/master/lms"
+								target="_blank">LMS</a></li>
+							<li><a
+								href="https://github.com/IAAA-Lab/LinkedMapService/tree/master/rdf"
+								target="_blank">RDF</a></li>
+							<li><a
+								href="https://github.com/IAAA-Lab/LinkedMapService/tree/master/fuseki"
+								target="_blank">Fuseki</a></li>
+							<li><a
+								href="https://github.com/IAAA-Lab/LinkedMapService/tree/master/wms"
+								target="_blank">WMS</a></li>
+							<li><a
+								href="https://github.com/IAAA-Lab/LinkedMapService/tree/master/ngbe"
+								target="_blank">Base de datos</a></li>
+
+						</ul></li>
+				</ul>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8">
+				<div class="media">
+
+					<div id="map" class="map"></div>
+					<div id="popup" class="ol-popup">
+						<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+						<div id="popup-content"></div>
+					</div>
+
+				</div>
+				<input id="info" readonly="readonly" type="hidden"
+					style="width: 100%; height: 30%;" />
+				<!-- CARGO JS QUE GENERAN EL MAPA Y CONTROLAN EVENTOS DEL MAPA -->
+				<script type="text/javascript" src="./js/service.js"></script>
+				<script type="text/javascript" src="./js/controller.js"></script>
+
+			</div>
+			<div class="col-md-4">
+				<form class="form-horizontal" role="form">
+
+					<div id="info-basica" class="form-group">
+						<label for="id"> ID </label> <input class="form-control"
+							id="txtId" type="text" readonly="readonly"></input> <br></br> <label
+							for="id"> Nombre </label> <input class="form-control"
+							id="txtName" type="text"></input> <br></br> <label for="id">
+							Longitud </label> <input class="form-control" id="longitud" type="text"
+							onchange="changeLonLat();"></input> <br></br> <label for="id">
+							Latitud </label> <input class="form-control" id="latitud" type="text"
+							onchange="changeLonLat();"></input> <br></br> <label for="id">
+							X </label> <input class="form-control" id="txtX" type="text"
+							onchange="changeXY();"></input> <br></br> <label for="id">
+							Y </label> <input class="form-control" id="txtY" type="text"
+							onchange="changeXY();"></input>
+					</div>
+
+					<br></br>
+
+					<div class="form-group">
+						<button type="button" class="btn btn-default"
+							onclick="editarFeature();">Editar</button>
+						<button type="button" class="btn btn-default"
+							onclick="actualizar()">Actualizar</button>
+
+
+						<script>
+							function actualizar(evt) {
+								var id = $('#txtId').val();
+								var f = $('#features').val();
+								var features = [];
+								features = actualizarFeature();
+								var ids = getIds();
+
+								update(features, ids); //Llamda a AJAX (en controller.js)
+
+							}
+						</script>
+						<button type="button" class="btn btn-default"
+							onclick="imagenWMS();">Ver imagen</button>
+						<script>
+							function imagenWMS(evt) {
+								var id = $('#txtId').val();
+								var lon = $('#longitud').val();
+								var lat = $('#latitud').val();
+								var x = $('#txtX').val();
+								var y = $('#txtY').val();
+								var url = $('#infoURL').val();
+								var coord = [ x, y ];
+
+								url = getUrlFeatureInfo(coord);
+								var urlMod = url.replace("GetFeatureInfo",
+										"GetMap");
+								$.ajax({
+									type : "Post",
+									url : "imagenWMS",
+									data : {
+										'txtId' : id,
+										'longitud' : lon,
+										'latitud' : lat,
+										'infoURL' : urlMod
+									},
+									success : function(response) {
+										window.open(response);
+									},
+									error : function(e) {
+										alert('Error: ' + e);
+									}
+								});
+
+							}
+						</script>
+
+
+
+
+						<button type="button" class="btn btn-default" data-toggle="modal"
+							data-target="#myModal" onclick="infoRDF();">Más
+							información</button>
+						<div id="myModal" class="modal fade" role="dialog">
+							<div class="modal-dialog">
+
+
+								<div class="modal-content">
+									<div class="modal-header">
+										<button type="button" class="close" data-dismiss="modal">&times;</button>
+										<h4 class="modal-title">Información extendida</h4>
+									</div>
+									<div class="modal-body">
+
+										<form id="infoFull" class="form-horizontal" role="form">
+
+
+
+											<div class="form-group">
+
+
+												<label>Identificador geográfico: </label>
+												<!-- 2 -->
+												<input type="text" id="2" class="form-control" /><br></br>
+												<label>Nombre alternativo 2: </label> <input type="text"
+													id="3" class="form-control" /><br></br>
+												<!-- 3 -->
+												<label>Nombre alternativo 3: </label> <input type="text"
+													id="4" class="form-control" /><br></br> <label>Nombre
+													variante 1: </label> <input type="text" id="5" class="form-control" /><br></br>
+												<label>Nombre variante 2: </label> <input type="text" id="6"
+													class="form-control" /><br></br> <label>Nombre
+													variante 3: </label> <input type="text" id="7" class="form-control" /><br></br>
+												<label>Fuente nombre extendido: </label> <input type="text"
+													id="8" class="form-control" /><br></br> <label>Fuente
+													identificador geografico: </label> <input type="text" id="9"
+													class="form-control" /><br></br> <label>Fuente
+													nombre alternativo 2: </label> <input type="text" id="10"
+													class="form-control" /><br></br> <label>Fuente
+													nombre alternativa 3: </label> <input type="text" id="11"
+													class="form-control" /><br></br> <label>Fuente
+													nombre variante 1: </label> <input type="text" id="12"
+													class="form-control" /><br></br> <label>Fuente
+													nombre variante 2: </label> <input type="text" id="13"
+													class="form-control" /><br></br> <label>Fuente
+													nombre variante 3: </label> <input type="text" id="14"
+													class="form-control" /><br></br> <label>Idioma
+													nombre extendido: </label> <input type="text" id="15"
+													class="form-control" /><br></br> <label>Idioma
+													identificador geografico: </label> <input type="text" id="16"
+													class="form-control" /><br></br> <label>Idioma
+													nombre alternativo 2: </label> <input type="text" id="17"
+													class="form-control" /><br></br> <label> Idioma
+													nombre alternativo 3: </label> <input type="text" id="18"
+													class="form-control" /><br></br> <label>Idioma
+													nombre variante1: </label> <input type="text" id="19"
+													class="form-control" /><br></br> <label>Idioma
+													nombre variante 2: </label> <input type="text" id="20"
+													class="form-control" /><br></br> <label>Idioma
+													nombre variante 3: </label> <input type="text" id="21"
+													class="form-control" /><br></br> <label>Estatus
+													nombre extendido: </label> <input type="text" id="22"
+													class="form-control" /><br></br> <input type="hidden"
+													id="23" class="form-control" />
+												<!-- campos lon lat x y -->
+												<input type="hidden" id="24" class="form-control" /> <input
+													type="hidden" id="25" class="form-control" /> <input
+													type="hidden" id="26" class="form-control" /> <input
+													type="hidden" id="27" class="form-control" /> <label>Sistema
+													de referencia </label> <input type="text" id="28"
+													class="form-control" /><br></br> <label> Hoja mtn:
+												</label> <input type="text" id="29" class="form-control" /><br></br>
+												<label>Código INE: </label> <input type="text" id="30"
+													class="form-control" /><br></br> <label>Código
+													NGBE: </label> <input type="text" id="31" class="form-control" /><br></br>
+												<label>CRS: </label> <input type="text" id="32"
+													class="form-control" /><br></br>
+
+
+											</div>
+										</form>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-default"
+											data-dismiss="modal">Cerrar</button>
+									</div>
+								</div>
+
+
+
+							</div>
+						</div>
+
+						<script>
+							function infoRDF() {
+
+								var id = $('#txtId').val();
+								var name = $('#txtName').val();
+								//   var huso = $('#txtHuso').val();
+								var longitud = $('#longitud').val();
+								var latitud = $('#latitud').val();
+								$
+										.ajax({
+											type : "Get",
+											url : "informacion",
+											data : {
+												'txtId' : id
+											},
+											success : function(response) {
+
+												var procesar=response.split(",");
+												var nombre= procesar[3].split(":");
+												
+												document.getElementById("2").value = nombre[1].substring(0,nombre[1].length-1);
+										
+										 var non_alt=procesar[6].split(":");
+										 document.getElementById("3").value = non_alt[1].substring(0,non_alt[1].length-1);
+										
+										 var non_var=procesar[9].split(":");
+										 document.getElementById("5").value = non_var[1].substring(0,non_var[1].length-1);
+										
+										 var fuente_ext=procesar[4].split(":");
+										 document.getElementById("9").value = fuente_ext[1].substring(0,fuente_ext[1].length-1);
+						
+										 var fuente_alt=procesar[7].split(":");
+										 document.getElementById("10").value = fuente_alt[1].substring(0,fuente_alt[1].length-1);
+										 var fuente_var=procesar[10].split(":");
+										 document.getElementById("12").value =fuente_var[1].substring(0,fuente_var[1].length-1);
+										
+										 var idioma_ext=procesar[5].split(":");
+										 var idioma_alt=procesar[8].split(":");
+										 var idioma_var=procesar[11].split(":");
+										 
+										 document.getElementById("16").value =idioma_ext[1].substring(0,idioma_ext[1].length-1);
+										 document.getElementById("19").value = idioma_alt[1].substring(0,idioma_alt[1].length-1);
+										document.getElementById("29").value = idioma_var[1].substring(0,idioma_var[1].length-1);
+										
+										var cod_ine=procesar[12].split(":");
+										var con_ngbe=procesar[13].split(":");
+										var hoja=procesar[14].split(":");
+										
+										document.getElementById("28").value ="ETRS_89";
+										document.getElementById("29").value =cod_ine[1].substring(0,cod_ine[1].length-1);
+										document.getElementById("30").value = con_ngbe[1].substring(0,con_ngbe[1].length-1);
+										document.getElementById("31").value = hoja[1].substring(0,hoja[1].length-1);
+										
+										document.getElementById("32").value="3857";
+											},
+											error : function(e) {
+												alert('Error: ' + e);
+											}
+										});
+							}
+						</script>
+
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+</body>
+</html>

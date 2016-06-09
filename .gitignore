@@ -1,0 +1,11 @@
+### Eclipse template
+.settings/
+.project
+.classpath
+
+### IntelliJ
+.idea/
+*.iml
+
+### Maven
+target

@@ -1,0 +1,13 @@
+SYMBOLSET
+
+SYMBOL
+  NAME "ngbe"
+  TYPE ellipse
+  FILLED TRUE
+  POINTS
+    1.0 1.0
+  END
+END
+
+END
+

@@ -1,0 +1,10 @@
+
+.panel-group{
+    height:35px;
+      display:table-cell !important;
+      vertical-align:middle;
+}
+.modal-body{
+     max-height: 300px;
+    overflow-y: auto;
+}

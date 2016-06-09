@@ -1,0 +1,107 @@
+@prefix geo:   <http://www.opengis.net/ont/geosparql#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix ogc:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://localhost/collections/1/features/2199609>
+        geo:geometry      [ geo:asWKT  "POINT(-5.69 39.31)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"PeÃ±a del Castillo\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"PeÃ±a del Castillo\""
+                          ] .
+
+<http://localhost/collections/1/features/2199131>
+        geo:geometry      [ geo:asWKT  "POINT(-6.03 39.21)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cancho Blanco\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cancho Blanco\""
+                          ] .
+
+<http://localhost/collections/1/features/2199008>
+        geo:geometry      [ geo:asWKT  "POINT(-5.98 39.25)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Morra del Chivero\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Morra del Chivero\""
+                          ] .
+
+<http://localhost/collections/1/features/2198914>
+        geo:geometry      [ geo:asWKT  "POINT(-5.93 39.27)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"MorrÃ³n de Valderrapiso\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"MorrÃ³n de Valderrapiso\""
+                          ] .
+
+<http://localhost/collections/1/features/2199501>
+        geo:geometry      [ geo:asWKT  "POINT(-5.84 39.31)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Risco de San Gregorio\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Risco de San Gregorio\""
+                          ] .
+
+<http://localhost/collections/1/features/2199568>
+        geo:geometry      [ geo:asWKT  "POINT(-5.83 39.3)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro del ReventÃ³n\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro del ReventÃ³n\""
+                          ] .
+
+<http://localhost/collections/1/features/2198919>
+        geo:geometry      [ geo:asWKT  "POINT(-5.92 39.28)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro de las Calenturas\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro de las Calenturas\""
+                          ] .
+
+<http://localhost/collections/1/features/2199063>
+        geo:geometry      [ geo:asWKT  "POINT(-5.93 39.3)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Descansadero de los Llanos\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Descansadero de los Llanos\""
+                          ] .
+
+<http://localhost/collections/1/features/2198920>
+        geo:geometry      [ geo:asWKT  "POINT(-6.0 39.28)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro de los Cardos\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"Cerro de los Cardos\""
+                          ] .
+
+<http://localhost/collections/1/features/2198918>
+        geo:geometry        [ geo:asWKT  "POINT(-5.91 39.31)"^^geo:wktLiteral ] ;
+        skosxl:altLabel     [ dc:source           "NGBE" ;
+                              skosxl:literalForm  "\"Cerro de la Vaca\""
+                            ] ;
+        skosxl:altLabel     [ skosxl:literalForm  "\"Cerro de la Vaca\"" ] ;
+        skosxl:altLabel     [ skosxl:literalForm  "\"Cerro de la Vaca\"" ] ;
+        skosxl:hiddenLabel  [ skosxl:literalForm  "\"Cerro de la Vaca\"" ] ;
+        skosxl:hiddenLabel  [ skosxl:literalForm  "\"Cerro de la Vaca\"" ] ;
+        skosxl:prefLabel    [ dc:source           "NGBE" ;
+                              skosxl:literalForm  "\"Cerro de la Vaca\""
+                            ] .
+
+<http://localhost/collections/1/features/2199212>
+        geo:geometry      [ geo:asWKT  "POINT(-6.08 39.22)"^^geo:wktLiteral ] ;
+        skosxl:altLabel   [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"MorrÃ³n del JabalÃ­\""
+                          ] ;
+        skosxl:prefLabel  [ dc:source           "NGBE" ;
+                            skosxl:literalForm  "\"MorrÃ³n del JabalÃ­\""
+                          ] .

@@ -1,0 +1,55 @@
+LAYER
+  NAME "ngbe"
+  TYPE POINT
+  STATUS ON
+  CLASS
+    NAME "ngbe"
+    STATUS ON
+    DEBUG ON
+    
+    STYLE
+      COLOR 80 160 100
+      OFFSET 0 0
+      SIZE 10.0
+      SYMBOL "ngbe"
+    END
+    
+  END
+   CONNECTION "dbname='NGBE' host=localhost port=5432 user='postgres' password='pass' sslmode=disable"
+   CONNECTIONTYPE POSTGIS
+   DATA 'geom FROM public.random2 USING UNIQUE id USING UNIQUE 3857'  
+  DEBUG 5
+  DUMP TRUE
+  EXTENT -1349137.3450844653 333006.18741961016 4244231.64430727 5487688.9280563975
+  
+  LABELCACHE OFF
+  METADATA
+    "wms_title" "ngbe"
+    "wms_name" "ngbe"
+    "wms_abstract" "ngbe"
+    "wms_extent" "-1349137.3450844653 333006.18741961016 4244231.64430727 5487688.9280563975"
+    "wms_srs" "EPSG:3857"
+    "gml_include_items" "all"
+    "gml_geometries" "geometry"
+    "gml_geometry_type" "point"
+	"wms_feature_info_mime_type" "text/html"
+	
+      'ows_title' 'ngbe'
+      'ows_geometries' 'the_geom'
+      'wms_enable_request' '*'
+      'wms_include_items' 'all'
+      'ows_mygeom_type'  'point'
+      
+       'queryable'          'true'
+     "wms_enable_request" "GetMap GetFeatureInfo"
+  END
+  OPACITY 100
+  POSTLABELCACHE FALSE
+  PROJECTION
+    "init=epsg:3857"
+  END
+  HEADER "C:/Users/Elena/Desktop/header.html"
+  TEMPLATE "C:/Users/Elena/Desktop/content.html"
+  FOOTER "C:/Users/Elena/Desktop/footer.html"
+END
+

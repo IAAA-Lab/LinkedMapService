@@ -1,0 +1,2344 @@
+@prefix geo:   <http://www.opengis.net/ont/geosparql#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix ogc:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://localhost/collections/1/features/2829750>
+        ogc:lat             "42.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Crocha de Levante\"" .
+
+<http://localhost/collections/1/features/390390>
+        ogc:lat             "40.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Cabecillas\"" .
+
+<http://localhost/collections/1/features/468930>
+        ogc:lat             "39.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.8"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Torilejos\"" .
+
+<http://localhost/collections/1/features/191730>
+        ogc:lat             "42.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Carremayorga\"" .
+
+<http://localhost/collections/1/features/1716330>
+        ogc:lat             "43.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Costa Vella\"" .
+
+<http://localhost/collections/1/features/2855160>
+        ogc:lat             "42.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alemparte\"" .
+
+<http://localhost/collections/1/features/1850310>
+        ogc:lat             "42.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cor�ns\"" .
+
+<http://localhost/collections/1/features/25410>
+        ogc:lat             "43.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Buen Suceso\"" .
+
+<http://localhost/collections/1/features/2705010>
+        ogc:lat             "38.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alcaraz\"" .
+
+<http://localhost/collections/1/features/314160>
+        ogc:lat             "41.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Romozal\"" .
+
+<http://localhost/collections/1/features/2222220>
+        ogc:lat             "39.05"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranc de la Pinada\"" .
+
+<http://localhost/collections/1/features/2120580>
+        ogc:lat             "40.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rambla del Olmo del Cura\"" .
+
+<http://localhost/collections/1/features/157080>
+        ogc:lat             "42.35"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "3.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cala d'Aiguadol�\"" .
+
+<http://localhost/collections/1/features/2065140>
+        ogc:lat             "40.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"�rea Recreativa el Pinalejo\"" .
+
+<http://localhost/collections/1/features/1924230>
+        ogc:lat             "41.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casetas de T. Solanas\"" .
+
+<http://localhost/collections/1/features/1718640>
+        ogc:lat             "43.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"R�o Portofoxado\"" .
+
+<http://localhost/collections/1/features/291060>
+        ogc:lat             "41.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Garga\"" .
+
+<http://localhost/collections/1/features/2857470>
+        ogc:lat             "43.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Bergame d'Arriba\"" .
+
+<http://localhost/collections/1/features/369600>
+        ogc:lat             "40.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Hoz de Beteta\"" .
+
+<http://localhost/collections/1/features/27720>
+        ogc:lat             "43.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cuesta Cerezo\"" .
+
+<http://localhost/collections/1/features/1750980>
+        ogc:lat             "42.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fonte dos Olmos\"" .
+
+<http://localhost/collections/1/features/1695540>
+        ogc:lat             "43.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cueto Llargamundi\"" .
+
+<http://localhost/collections/1/features/2430120>
+        ogc:lat             "36.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pol�gono Industrial Carretera C�rtama\"" .
+
+<http://localhost/collections/1/features/2139060>
+        ogc:lat             "39.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Colada de los Algesares\"" .
+
+<http://localhost/collections/1/features/522060>
+        ogc:lat             "38.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra de las Contiendas\"" .
+
+<http://localhost/collections/1/features/316470>
+        ogc:lat             "41.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Arroyos\"" .
+
+<http://localhost/collections/1/features/2224530>
+        ogc:lat             "39.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Far de Portinatx\"" .
+
+<http://localhost/collections/1/features/2122890>
+        ogc:lat             "40.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de la Cueva Morena\"" .
+
+<http://localhost/collections/1/features/159390>
+        ogc:lat             "42.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Reinoso\"" .
+
+<http://localhost/collections/1/features/450450>
+        ogc:lat             "39.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cuesta del Rayo\"" .
+
+<http://localhost/collections/1/features/1926540>
+        ogc:lat             "41.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cobert de �o de Fulla\"" .
+
+<http://localhost/collections/1/features/293370>
+        ogc:lat             "41.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Lavanderos\"" .
+
+<http://localhost/collections/1/features/300300>
+        ogc:lat             "41.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro Molinero\"" .
+
+<http://localhost/collections/1/features/2582580>
+        ogc:lat             "39.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino Paterna\"" .
+
+<http://localhost/collections/1/features/143220>
+        ogc:lat             "42.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barrilete\"" .
+
+<http://localhost/collections/1/features/2432430>
+        ogc:lat             "36.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Tabl�n\"" .
+
+<http://localhost/collections/1/features/78540>
+        ogc:lat             "42.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Soas Curti�as\"" .
+
+<http://localhost/collections/1/features/524370>
+        ogc:lat             "38.1"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Cebadilla\"" .
+
+<http://localhost/collections/1/features/318780>
+        ogc:lat             "41.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra Bajera\"" .
+
+<http://localhost/collections/1/features/2226840>
+        ogc:lat             "38.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de Moreno\"" .
+
+<http://localhost/collections/1/features/2607990>
+        ogc:lat             "41.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valles de Cerrato\"" .
+
+<http://localhost/collections/1/features/367290>
+        ogc:lat             "40.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Zarzilla\"" .
+
+<http://localhost/collections/1/features/2275350>
+        ogc:lat             "38.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Mayoral\"" .
+
+<http://localhost/collections/1/features/452760>
+        ogc:lat             "39.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Lidonero\"" .
+
+<http://localhost/collections/1/features/2360820>
+        ogc:lat             "37.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino Viejo de Torre-Cardela a Do�a Marina\"" .
+
+<http://localhost/collections/1/features/1928850>
+        ogc:lat             "41.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ermita Sant Bernat\"" .
+
+<http://localhost/collections/1/features/295680>
+        ogc:lat             "41.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de la Cueva\"" .
+
+<http://localhost/collections/1/features/217140>
+        ogc:lat             "41.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las �nimas\"" .
+
+<http://localhost/collections/1/features/579810>
+        ogc:lat             "36.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Llanos del Mortero\"" .
+
+<http://localhost/collections/1/features/302610>
+        ogc:lat             "41.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerrofr�o\"" .
+
+<http://localhost/collections/1/features/200970>
+        ogc:lat             "42.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Luna\"" .
+
+<http://localhost/collections/1/features/351120>
+        ogc:lat             "40.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Majadilla Caliente\"" .
+
+<http://localhost/collections/1/features/145530>
+        ogc:lat             "42.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Lora\"" .
+
+<http://localhost/collections/1/features/526680>
+        ogc:lat             "38.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Chaparra\"" .
+
+<http://localhost/collections/1/features/2434740>
+        ogc:lat             "36.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa de Nuestra Se�ora de los Milagros\"" .
+
+<http://localhost/collections/1/features/194040>
+        ogc:lat             "42.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Mangas\"" .
+
+<http://localhost/collections/1/features/2815890>
+        ogc:lat             "40.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Puebla de San Miguel\"" .
+
+<http://localhost/collections/1/features/1755600>
+        ogc:lat             "42.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo de Ricuernas\"" .
+
+<http://localhost/collections/1/features/2127510>
+        ogc:lat             "39.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo el Refugio de Arriba\"" .
+
+<http://localhost/collections/1/features/297990>
+        ogc:lat             "41.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Balagoso\"" .
+
+<http://localhost/collections/1/features/1702470>
+        ogc:lat             "43.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Allende\"" .
+
+<http://localhost/collections/1/features/219450>
+        ogc:lat             "41.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cospedazo\"" .
+
+<http://localhost/collections/1/features/510510>
+        ogc:lat             "38.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Burga\"" .
+
+<http://localhost/collections/1/features/304920>
+        ogc:lat             "41.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Tranca\"" .
+
+<http://localhost/collections/1/features/353430>
+        ogc:lat             "40.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Mojones\"" .
+
+<http://localhost/collections/1/features/147840>
+        ogc:lat             "42.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valdecorrales\"" .
+
+<http://localhost/collections/1/features/2055900>
+        ogc:lat             "40.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.05"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Vereda del Camino Real\"" .
+
+<http://localhost/collections/1/features/11550>
+        ogc:lat             "43.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Llavero\"" .
+
+<http://localhost/collections/1/features/528990>
+        ogc:lat             "38.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los de Boix\"" .
+
+<http://localhost/collections/1/features/196350>
+        ogc:lat             "42.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Andaviruela\"" .
+
+<http://localhost/collections/1/features/281820>
+        ogc:lat             "41.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de la Plaza\"" .
+
+<http://localhost/collections/1/features/1757910>
+        ogc:lat             "42.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de los Sotillos\"" .
+
+<http://localhost/collections/1/features/2279970>
+        ogc:lat             "38.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Collado del Chaparro\"" .
+
+<http://localhost/collections/1/features/2818200>
+        ogc:lat             "37.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Piar\"" .
+
+<http://localhost/collections/1/features/2051280>
+        ogc:lat             "40.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Bercimuelle\"" .
+
+<http://localhost/collections/1/features/2129820>
+        ogc:lat             "39.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo de Barrancas Altas\"" .
+
+<http://localhost/collections/1/features/1910370>
+        ogc:lat             "42.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Riera d'en Xucl�\"" .
+
+<http://localhost/collections/1/features/1704780>
+        ogc:lat             "43.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Untzaluartu\"" .
+
+<http://localhost/collections/1/features/512820>
+        ogc:lat             "38.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo Cecilia\"" .
+
+<http://localhost/collections/1/features/1753290>
+        ogc:lat             "42.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alto de los Cuchaos\"" .
+
+<http://localhost/collections/1/features/2178330>
+        ogc:lat             "39.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Son Perot Manera\"" .
+
+<http://localhost/collections/1/features/355740>
+        ogc:lat             "40.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Hoyas\"" .
+
+<http://localhost/collections/1/features/2310>
+        ogc:lat             "43.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Praos\"" .
+
+<http://localhost/collections/1/features/13860>
+        ogc:lat             "43.35"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Gamonal\"" .
+
+<http://localhost/collections/1/features/198660>
+        ogc:lat             "42.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valderrueda\"" .
+
+<http://localhost/collections/1/features/62370>
+        ogc:lat             "42.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Bra�a\"" .
+
+<http://localhost/collections/1/features/429660>
+        ogc:lat             "39.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "4.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Canal Gran\"" .
+
+<http://localhost/collections/1/features/563640>
+        ogc:lat             "37.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Vi�a\"" .
+
+<http://localhost/collections/1/features/1991220>
+        ogc:lat             "41.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino del Cerro de Carbonera\"" .
+
+<http://localhost/collections/1/features/4620>
+        ogc:lat             "43.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"O Pontigo\"" .
+
+<http://localhost/collections/1/features/1683990>
+        ogc:lat             "43.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"R�o de Vila\"" .
+
+<http://localhost/collections/1/features/207900>
+        ogc:lat             "41.96"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"As Corgas\"" .
+
+<http://localhost/collections/1/features/64680>
+        ogc:lat             "42.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"San Vicente\"" .
+
+<http://localhost/collections/1/features/455070>
+        ogc:lat             "39.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "3.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Es Corralassos\"" .
+
+<http://localhost/collections/1/features/256410>
+        ogc:lat             "41.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valdeming�eles\"" .
+
+<http://localhost/collections/1/features/2261490>
+        ogc:lat             "38.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Santa Eufemia a Alamillo\"" .
+
+<http://localhost/collections/1/features/1914990>
+        ogc:lat             "41.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo del Carcab�n\"" .
+
+<http://localhost/collections/1/features/184800>
+        ogc:lat             "42.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Candas\"" .
+
+<http://localhost/collections/1/features/565950>
+        ogc:lat             "37.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.79"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra de Baza\"" .
+
+<http://localhost/collections/1/features/6930>
+        ogc:lat             "43.35"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"As Trapellas\"" .
+
+<http://localhost/collections/1/features/2437050>
+        ogc:lat             "36.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa de M�nguez\"" .
+
+<http://localhost/collections/1/features/1891890>
+        ogc:lat             "42.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pico las Tres Provincias\"" .
+
+<http://localhost/collections/1/features/131670>
+        ogc:lat             "42.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Laxa Casta�a\"" .
+
+<http://localhost/collections/1/features/415800>
+        ogc:lat             "40.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Magdalena\"" .
+
+<http://localhost/collections/1/features/66990>
+        ogc:lat             "42.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Quintanas\"" .
+
+<http://localhost/collections/1/features/180180>
+        ogc:lat             "42.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Costa del Cristall\"" .
+
+<http://localhost/collections/1/features/258720>
+        ogc:lat             "41.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cruz de Carravelilla\"" .
+
+<http://localhost/collections/1/features/1686300>
+        ogc:lat             "43.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ermita de San Antonio\"" .
+
+<http://localhost/collections/1/features/392700>
+        ogc:lat             "40.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.87"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra de la Centenera\"" .
+
+<http://localhost/collections/1/features/2802030>
+        ogc:lat             "42.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Palacios de Jamuz\"" .
+
+<http://localhost/collections/1/features/2028180>
+        ogc:lat             "41.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Puente de los Tubos\"" .
+
+<http://localhost/collections/1/features/205590>
+        ogc:lat             "42.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.38"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Els Clivillers\"" .
+
+<http://localhost/collections/1/features/50820>
+        ogc:lat             "43.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.87"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pico del Fresnal\"" .
+
+<http://localhost/collections/1/features/2439360>
+        ogc:lat             "36.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Torreblanca\"" .
+
+<http://localhost/collections/1/features/1815660>
+        ogc:lat             "42.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Borda de Castellar\"" .
+
+<http://localhost/collections/1/features/182490>
+        ogc:lat             "42.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Faro de Budi�o\"" .
+
+<http://localhost/collections/1/features/2090550>
+        ogc:lat             "40.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rambla de la Novera\"" .
+
+<http://localhost/collections/1/features/1894200>
+        ogc:lat             "42.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Acequia de la Mejana\"" .
+
+<http://localhost/collections/1/features/515130>
+        ogc:lat             "38.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lania\"" .
+
+<http://localhost/collections/1/features/1707090>
+        ogc:lat             "43.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Potzueta\"" .
+
+<http://localhost/collections/1/features/69300>
+        ogc:lat             "42.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.05"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Valles\"" .
+
+<http://localhost/collections/1/features/413490>
+        ogc:lat             "40.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cabeza Gorda\"" .
+
+<http://localhost/collections/1/features/1841070>
+        ogc:lat             "42.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Borda de Palestre\"" .
+
+<http://localhost/collections/1/features/358050>
+        ogc:lat             "40.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"S�l de la Vall\"" .
+
+<http://localhost/collections/1/features/1919610>
+        ogc:lat             "41.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente de la Reina\"" .
+
+<http://localhost/collections/1/features/16170>
+        ogc:lat             "43.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Coto de Campe�ns\"" .
+
+<http://localhost/collections/1/features/2164470>
+        ogc:lat             "39.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo del Urguill�n\"" .
+
+<http://localhost/collections/1/features/341880>
+        ogc:lat             "40.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Les Tosses\"" .
+
+<http://localhost/collections/1/features/492030>
+        ogc:lat             "40.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Buenavista\"" .
+
+<http://localhost/collections/1/features/1817970>
+        ogc:lat             "42.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Cachadi�a\"" .
+
+<http://localhost/collections/1/features/2092860>
+        ogc:lat             "40.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Masico de Godoya\"" .
+
+<http://localhost/collections/1/features/106260>
+        ogc:lat             "42.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Albariza\"" .
+
+<http://localhost/collections/1/features/3310230>
+        ogc:lat             "38.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cejo Cortado\"" .
+
+<http://localhost/collections/1/features/1951950>
+        ogc:lat             "41.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Masia del Jaume el Bola\"" .
+
+<http://localhost/collections/1/features/2425500>
+        ogc:lat             "36.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de la Cuesta de la Rosa\"" .
+
+<http://localhost/collections/1/features/517440>
+        ogc:lat             "38.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Luc�a\"" .
+
+<http://localhost/collections/1/features/240240>
+        ogc:lat             "41.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Contadero\"" .
+
+<http://localhost/collections/1/features/2806650>
+        ogc:lat             "42.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pardamaza\"" .
+
+<http://localhost/collections/1/features/1801800>
+        ogc:lat             "42.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo del Valle de San Miguel\"" .
+
+<http://localhost/collections/1/features/1843380>
+        ogc:lat             "42.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Torrent de la Borda\"" .
+
+<http://localhost/collections/1/features/2268420>
+        ogc:lat             "38.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ventorrilo del Diablo\"" .
+
+<http://localhost/collections/1/features/18480>
+        ogc:lat             "43.26"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Coroa\"" .
+
+<http://localhost/collections/1/features/1644720>
+        ogc:lat             "43.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo del Anguilero\"" .
+
+<http://localhost/collections/1/features/494340>
+        ogc:lat             "38.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro Pozarrancones\"" .
+
+<http://localhost/collections/1/features/108570>
+        ogc:lat             "42.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valdemorales\"" .
+
+<http://localhost/collections/1/features/2016630>
+        ogc:lat             "41.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Casa del Vall�s\"" .
+
+<http://localhost/collections/1/features/1898820>
+        ogc:lat             "42.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Corral del Raval\"" .
+
+<http://localhost/collections/1/features/2427810>
+        ogc:lat             "36.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ca�ada de la Encina\"" .
+
+<http://localhost/collections/1/features/2150610>
+        ogc:lat             "39.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa de la Maja\"" .
+
+<http://localhost/collections/1/features/519750>
+        ogc:lat             "38.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Hoya Gald�n\"" .
+
+<http://localhost/collections/1/features/242550>
+        ogc:lat             "41.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Llano de los Caballeros\"" .
+
+<http://localhost/collections/1/features/187110>
+        ogc:lat             "42.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lombo de Carballo\"" .
+
+<http://localhost/collections/1/features/2808960>
+        ogc:lat             "38.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.35"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pen�guila\"" .
+
+<http://localhost/collections/1/features/568260>
+        ogc:lat             "37.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alcornoque de las Monjas\"" .
+
+<http://localhost/collections/1/features/9240>
+        ogc:lat             "43.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Comuna\"" .
+
+<http://localhost/collections/1/features/170940>
+        ogc:lat             "42.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"San Isidro\"" .
+
+<http://localhost/collections/1/features/496650>
+        ogc:lat             "38.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Hondos del Calder�n\"" .
+
+<http://localhost/collections/1/features/418110>
+        ogc:lat             "39.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Charco del Eucalipto\"" .
+
+<http://localhost/collections/1/features/2423190>
+        ogc:lat             "36.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rambla de los Nietos\"" .
+
+<http://localhost/collections/1/features/2707320>
+        ogc:lat             "40.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"U�a\"" .
+
+<http://localhost/collections/1/features/401940>
+        ogc:lat             "40.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Bancal de la Curra\"" .
+
+<http://localhost/collections/1/features/346500>
+        ogc:lat             "40.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Prado Verde\"" .
+
+<http://localhost/collections/1/features/244860>
+        ogc:lat             "41.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Muela de Cuart�n\"" .
+
+<http://localhost/collections/1/features/395010>
+        ogc:lat             "40.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Matagallegos\"" .
+
+<http://localhost/collections/1/features/189420>
+        ogc:lat             "42.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Albarero\"" .
+
+<http://localhost/collections/1/features/53130>
+        ogc:lat             "43.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Orbide\"" .
+
+<http://localhost/collections/1/features/2859780>
+        ogc:lat             "43.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Longrey\"" .
+
+<http://localhost/collections/1/features/498960>
+        ogc:lat             "38.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ter� de sa Torre\"" .
+
+<http://localhost/collections/1/features/1903440>
+        ogc:lat             "42.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Pinosa\"" .
+
+<http://localhost/collections/1/features/2709630>
+        ogc:lat             "43.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sunbilla\"" .
+
+<http://localhost/collections/1/features/554400>
+        ogc:lat             "37.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Carrajola\"" .
+
+<http://localhost/collections/1/features/348810>
+        ogc:lat             "40.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Navalondilla\"" .
+
+<http://localhost/collections/1/features/2843610>
+        ogc:lat             "43.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Paderne\"" .
+
+<http://localhost/collections/1/features/397320>
+        ogc:lat             "40.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Hornillos\"" .
+
+<http://localhost/collections/1/features/501270>
+        ogc:lat             "38.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Lucianes\"" .
+
+<http://localhost/collections/1/features/55440>
+        ogc:lat             "42.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Agra Doli�o\"" .
+
+<http://localhost/collections/1/features/344190>
+        ogc:lat             "40.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Mosquiles\"" .
+
+<http://localhost/collections/1/features/1905750>
+        ogc:lat             "42.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Baletes\"" .
+
+<http://localhost/collections/1/features/2379300>
+        ogc:lat             "37.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de Servalejo\"" .
+
+<http://localhost/collections/1/features/2102100>
+        ogc:lat             "40.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Herrero\"" .
+
+<http://localhost/collections/1/features/1954260>
+        ogc:lat             "41.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cal Prat\"" .
+
+<http://localhost/collections/1/features/1748670>
+        ogc:lat             "42.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.8"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Castro de Lardeiros\"" .
+
+<http://localhost/collections/1/features/556710>
+        ogc:lat             "37.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Canos\"" .
+
+<http://localhost/collections/1/features/2845920>
+        ogc:lat             "43.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Orx�s\"" .
+
+<http://localhost/collections/1/features/399630>
+        ogc:lat             "40.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Ma�llo\"" .
+
+<http://localhost/collections/1/features/2326170>
+        ogc:lat             "37.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Balsa de Pozo Ancho\"" .
+
+<http://localhost/collections/1/features/57750>
+        ogc:lat             "42.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Buxacos\"" .
+
+<http://localhost/collections/1/features/503580>
+        ogc:lat             "38.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Cerrillos\"" .
+
+<http://localhost/collections/1/features/2411640>
+        ogc:lat             "37.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo la Ca�ada\"" .
+
+<http://localhost/collections/1/features/1647030>
+        ogc:lat             "43.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valle\"" .
+
+<http://localhost/collections/1/features/2169090>
+        ogc:lat             "39.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Molino de la Trapera\"" .
+
+<http://localhost/collections/1/features/552090>
+        ogc:lat             "37.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Palas\"" .
+
+<http://localhost/collections/1/features/2254560>
+        ogc:lat             "38.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.35"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Caseta Juanito\"" .
+
+<http://localhost/collections/1/features/1781010>
+        ogc:lat             "42.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de Pe�a Rubia\"" .
+
+<http://localhost/collections/1/features/480480>
+        ogc:lat             "39.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rac� de Mart�\"" .
+
+<http://localhost/collections/1/features/1956570>
+        ogc:lat             "41.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Cornellana\"" .
+
+<http://localhost/collections/1/features/1799490>
+        ogc:lat             "42.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo de Salas de los Barrios\"" .
+
+<http://localhost/collections/1/features/330330>
+        ogc:lat             "40.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Barrancas\"" .
+
+<http://localhost/collections/1/features/1806420>
+        ogc:lat             "42.64"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de los Llanos\"" .
+
+<http://localhost/collections/1/features/505890>
+        ogc:lat             "38.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Vacas\"" .
+
+<http://localhost/collections/1/features/173250>
+        ogc:lat             "42.26"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Picos\"" .
+
+<http://localhost/collections/1/features/1734810>
+        ogc:lat             "43.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Eguzkin\"" .
+
+<http://localhost/collections/1/features/1783320>
+        ogc:lat             "42.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Puerto Nuevo\"" .
+
+<http://localhost/collections/1/features/2390850>
+        ogc:lat             "37.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa del Lomelino\"" .
+
+<http://localhost/collections/1/features/482790>
+        ogc:lat             "38.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Bargenosa\"" .
+
+<http://localhost/collections/1/features/404250>
+        ogc:lat             "40.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pozo Ribera\"" .
+
+<http://localhost/collections/1/features/1958880>
+        ogc:lat             "41.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Bres\"" .
+
+<http://localhost/collections/1/features/2155230>
+        ogc:lat             "39.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rambla Pieza Cabera\"" .
+
+<http://localhost/collections/1/features/247170>
+        ogc:lat             "41.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Carenilles\"" .
+
+<http://localhost/collections/1/features/92400>
+        ogc:lat             "42.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Gargantilla\"" .
+
+<http://localhost/collections/1/features/332640>
+        ogc:lat             "40.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mazar�as\"" .
+
+<http://localhost/collections/1/features/381150>
+        ogc:lat             "40.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alto de los Olivos\"" .
+
+<http://localhost/collections/1/features/231000>
+        ogc:lat             "41.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "3.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sapl� de Can S�bat\"" .
+
+<http://localhost/collections/1/features/2520210>
+        ogc:lat             "43.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Montemaior (Santa Mar�a Madanela)\"" .
+
+<http://localhost/collections/1/features/406560>
+        ogc:lat             "40.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro Salteado\"" .
+
+<http://localhost/collections/1/features/2363130>
+        ogc:lat             "37.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ermita Virgen de las Nieves\"" .
+
+<http://localhost/collections/1/features/2157540>
+        ogc:lat             "39.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Caseta de Romeu\"" .
+
+<http://localhost/collections/1/features/540540>
+        ogc:lat             "37.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.87"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pata del Caballo\"" .
+
+<http://localhost/collections/1/features/249480>
+        ogc:lat             "41.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Plana Serra\"" .
+
+<http://localhost/collections/1/features/94710>
+        ogc:lat             "42.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Basalde\"" .
+
+<http://localhost/collections/1/features/2291520>
+        ogc:lat             "38.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo del Risco\"" .
+
+<http://localhost/collections/1/features/383460>
+        ogc:lat             "40.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Tres Nogueras\"" .
+
+<http://localhost/collections/1/features/177870>
+        ogc:lat             "42.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Torruezo\"" .
+
+<http://localhost/collections/1/features/1859550>
+        ogc:lat             "42.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente Pozuelo\"" .
+
+<http://localhost/collections/1/features/3303300>
+        ogc:lat             "41.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Baganegra\"" .
+
+<http://localhost/collections/1/features/41580>
+        ogc:lat             "43.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.38"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Tartas\"" .
+
+<http://localhost/collections/1/features/1908060>
+        ogc:lat             "42.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Els Beixics\"" .
+
+<http://localhost/collections/1/features/233310>
+        ogc:lat             "41.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Carrozal\"" .
+
+<http://localhost/collections/1/features/90090>
+        ogc:lat             "42.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Tez\"" .
+
+<http://localhost/collections/1/features/1709400>
+        ogc:lat             "43.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuerte\"" .
+
+<http://localhost/collections/1/features/2522520>
+        ogc:lat             "42.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"L�rez (San Salvador)\"" .
+
+<http://localhost/collections/1/features/408870>
+        ogc:lat             "40.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sapera\"" .
+
+<http://localhost/collections/1/features/559020>
+        ogc:lat             "37.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Mondejares\"" .
+
+<http://localhost/collections/1/features/2316930>
+        ogc:lat             "38.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa de la Plana\"" .
+
+<http://localhost/collections/1/features/161700>
+        ogc:lat             "42.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Rigueiri�a\"" .
+
+<http://localhost/collections/1/features/2848230>
+        ogc:lat             "42.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pasantes\"" .
+
+<http://localhost/collections/1/features/457380>
+        ogc:lat             "39.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lotes de Ca�amero\"" .
+
+<http://localhost/collections/1/features/2159850>
+        ogc:lat             "39.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Son Fonoll\"" .
+
+<http://localhost/collections/1/features/385770>
+        ogc:lat             "40.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Loma del Valle\"" .
+
+<http://localhost/collections/1/features/43890>
+        ogc:lat             "43.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Camparones\"" .
+
+<http://localhost/collections/1/features/2058210>
+        ogc:lat             "40.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casas de Teros\"" .
+
+<http://localhost/collections/1/features/441210>
+        ogc:lat             "39.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ca�ada de Ruga\"" .
+
+<http://localhost/collections/1/features/235620>
+        ogc:lat             "41.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Canteras\"" .
+
+<http://localhost/collections/1/features/133980>
+        ogc:lat             "42.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"As Lagoas\"" .
+
+<http://localhost/collections/1/features/2005080>
+        ogc:lat             "41.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.05"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Majada del Poyal\"" .
+
+<http://localhost/collections/1/features/459690>
+        ogc:lat             "39.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Gato\"" .
+
+<http://localhost/collections/1/features/1688610>
+        ogc:lat             "43.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.87"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"T�nel la Portilla\"" .
+
+<http://localhost/collections/1/features/309540>
+        ogc:lat             "41.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.87"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valdehermosa\"" .
+
+<http://localhost/collections/1/features/2217600>
+        ogc:lat             "39.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de los Guijos\"" .
+
+<http://localhost/collections/1/features/443520>
+        ogc:lat             "39.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "3.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Son Perot\"" .
+
+<http://localhost/collections/1/features/237930>
+        ogc:lat             "41.79"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Rebolladas\"" .
+
+<http://localhost/collections/1/features/46200>
+        ogc:lat             "43.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra del Arveyal\"" .
+
+<http://localhost/collections/1/features/286440>
+        ogc:lat             "41.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Serra del Mig\"" .
+
+<http://localhost/collections/1/features/371910>
+        ogc:lat             "40.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Moragu�s\"" .
+
+<http://localhost/collections/1/features/2007390>
+        ogc:lat             "41.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Balneario de la Virgen\"" .
+
+<http://localhost/collections/1/features/2141370>
+        ogc:lat             "39.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cam� la Miralles\"" .
+
+<http://localhost/collections/1/features/1945020>
+        ogc:lat             "41.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Corral del Regalado\"" .
+
+<http://localhost/collections/1/features/445830>
+        ogc:lat             "39.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Dehesa de Marisancho\"" .
+
+<http://localhost/collections/1/features/288750>
+        ogc:lat             "41.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Barrero\"" .
+
+<http://localhost/collections/1/features/2215290>
+        ogc:lat             "39.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Molino\"" .
+
+<http://localhost/collections/1/features/97020>
+        ogc:lat             "42.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Aparra\"" .
+
+<http://localhost/collections/1/features/2832060>
+        ogc:lat             "43.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arcai de Abaixo\"" .
+
+<http://localhost/collections/1/features/2143680>
+        ogc:lat             "39.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente San Ant�n\"" .
+
+<http://localhost/collections/1/features/80850>
+        ogc:lat             "42.8"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Coucill�n\"" .
+
+<http://localhost/collections/1/features/1947330>
+        ogc:lat             "41.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de la Paridera del Sant�simo\"" .
+
+<http://localhost/collections/1/features/1845690>
+        ogc:lat             "42.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Picardia\"" .
+
+<http://localhost/collections/1/features/2319240>
+        ogc:lat             "37.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Molino de Mollera\"" .
+
+<http://localhost/collections/1/features/545160>
+        ogc:lat             "37.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Pesebritos\"" .
+
+<http://localhost/collections/1/features/99330>
+        ogc:lat             "42.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Larrarte\"" .
+
+<http://localhost/collections/1/features/2834370>
+        ogc:lat             "42.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Ral\"" .
+
+<http://localhost/collections/1/features/2296140>
+        ogc:lat             "38.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Palanc�n de Abajo\"" .
+
+<http://localhost/collections/1/features/388080>
+        ogc:lat             "40.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Setzena\"" .
+
+<http://localhost/collections/1/features/2145990>
+        ogc:lat             "39.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cruz de la T�a Valentina\"" .
+
+<http://localhost/collections/1/features/1672440>
+        ogc:lat             "43.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Billabende\"" .
+
+<http://localhost/collections/1/features/2201430>
+        ogc:lat             "39.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Naves de Ausencio\"" .
+
+<http://localhost/collections/1/features/1998150>
+        ogc:lat             "41.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Centre Sant Francesc de Borja\"" .
+
+<http://localhost/collections/1/features/2044350>
+        ogc:lat             "40.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de la Paridera\"" .
+
+<http://localhost/collections/1/features/136290>
+        ogc:lat             "42.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mata Forrada\"" .
+
+<http://localhost/collections/1/features/1981980>
+        ogc:lat             "41.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arroyo de los Valcuevos\"" .
+
+<http://localhost/collections/1/features/221760>
+        ogc:lat             "41.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cuerda Corral\"" .
+
+<http://localhost/collections/1/features/30030>
+        ogc:lat             "43.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Corrales de Arraiz\"" .
+
+<http://localhost/collections/1/features/547470>
+        ogc:lat             "37.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Alamillos\"" .
+
+<http://localhost/collections/1/features/270270>
+        ogc:lat             "41.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las �avas\"" .
+
+<http://localhost/collections/1/features/2836680>
+        ogc:lat             "42.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sah�n\"" .
+
+<http://localhost/collections/1/features/1831830>
+        ogc:lat             "42.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Manantial del Val\"" .
+
+<http://localhost/collections/1/features/2353890>
+        ogc:lat             "37.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Vereda de Tocina\"" .
+
+<http://localhost/collections/1/features/2298450>
+        ogc:lat             "38.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa J Torrano\"" .
+
+<http://localhost/collections/1/features/120120>
+        ogc:lat             "42.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pe�a Lacha\"" .
+
+<http://localhost/collections/1/features/2203740>
+        ogc:lat             "39.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de la Casa del Blanco\"" .
+
+<http://localhost/collections/1/features/531300>
+        ogc:lat             "37.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Qui�ones\"" .
+
+<http://localhost/collections/1/features/2820510>
+        ogc:lat             "42.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ajarte\"" .
+
+<http://localhost/collections/1/features/374220>
+        ogc:lat             "40.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cabo el Valle\"" .
+
+<http://localhost/collections/1/features/549780>
+        ogc:lat             "37.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Haza de la Mirilla\"" .
+
+<http://localhost/collections/1/features/272580>
+        ogc:lat             "41.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Valle\"" .
+
+<http://localhost/collections/1/features/2180640>
+        ogc:lat             "39.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Paje\"" .
+
+<http://localhost/collections/1/features/2838990>
+        ogc:lat             "42.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casilmoure\"" .
+
+<http://localhost/collections/1/features/122430>
+        ogc:lat             "42.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Chaparro\"" .
+
+<http://localhost/collections/1/features/1931160>
+        ogc:lat             "41.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Teuleria de Reguer\"" .
+
+<http://localhost/collections/1/features/448140>
+        ogc:lat             "39.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Hontanilla\"" .
+
+<http://localhost/collections/1/features/2356200>
+        ogc:lat             "37.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pozo de la Fuente de Jerez\"" .
+
+<http://localhost/collections/1/features/533610>
+        ogc:lat             "37.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Canteras\"" .
+
+<http://localhost/collections/1/features/2822820>
+        ogc:lat             "43.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Esfarrapa\"" .
+
+<http://localhost/collections/1/features/2199120>
+        ogc:lat             "39.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Botija\"" .
+
+<http://localhost/collections/1/features/431970>
+        ogc:lat             "40.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Encina\"" .
+
+<http://localhost/collections/1/features/1774080>
+        ogc:lat             "42.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rego do Oribio\"" .
+
+<http://localhost/collections/1/features/582120>
+        ogc:lat             "36.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Torrecillas\"" .
+
+<http://localhost/collections/1/features/376530>
+        ogc:lat             "40.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Matones\"" .
+
+<http://localhost/collections/1/features/2303070>
+        ogc:lat             "38.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa de la Cerca de Piedra\"" .
+
+<http://localhost/collections/1/features/2871330>
+        ogc:lat             "40.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casillas de las Er�as\"" .
+
+<http://localhost/collections/1/features/274890>
+        ogc:lat             "41.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Maravilla\"" .
+
+<http://localhost/collections/1/features/2182950>
+        ogc:lat             "39.38"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa Cuatro Mulas\"" .
+
+<http://localhost/collections/1/features/1986600>
+        ogc:lat             "41.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Colmenarillo\"" .
+
+<http://localhost/collections/1/features/83160>
+        ogc:lat             "42.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.46"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Chano del Morro\"" .
+
+<http://localhost/collections/1/features/124740>
+        ogc:lat             "42.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Morate\"" .
+
+<http://localhost/collections/1/features/2413950>
+        ogc:lat             "36.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de L�jar\"" .
+
+<http://localhost/collections/1/features/2358510>
+        ogc:lat             "37.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo Porenco\"" .
+
+<http://localhost/collections/1/features/2256870>
+        ogc:lat             "38.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.1"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Sobral\"" .
+
+<http://localhost/collections/1/features/1776390>
+        ogc:lat             "42.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente de los Llamacines\"" .
+
+<http://localhost/collections/1/features/584430>
+        ogc:lat             "36.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo Carretero\"" .
+
+<http://localhost/collections/1/features/2873640>
+        ogc:lat             "41.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Llacuneta\"" .
+
+<http://localhost/collections/1/features/2106720>
+        ogc:lat             "40.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Castillo de Torrefuerte\"" .
+
+<http://localhost/collections/1/features/1988910>
+        ogc:lat             "41.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de Sestrica\"" .
+
+<http://localhost/collections/1/features/85470>
+        ogc:lat             "42.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lameluso\"" .
+
+<http://localhost/collections/1/features/224070>
+        ogc:lat             "41.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Umbr�a\"" .
+
+<http://localhost/collections/1/features/2132130>
+        ogc:lat             "39.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Carmena\"" .
+
+<http://localhost/collections/1/features/586740>
+        ogc:lat             "36.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cepillo del Enebro\"" .
+
+<http://localhost/collections/1/features/508200>
+        ogc:lat             "38.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Encinalito\"" .
+
+<http://localhost/collections/1/features/2875950>
+        ogc:lat             "43.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Orozketa\"" .
+
+<http://localhost/collections/1/features/87780>
+        ogc:lat             "42.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barral\"" .
+
+<http://localhost/collections/1/features/1677060>
+        ogc:lat             "43.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mu��o de Baldomir\"" .
+
+<http://localhost/collections/1/features/279510>
+        ogc:lat             "41.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Pozanco\"" .
+
+<http://localhost/collections/1/features/334950>
+        ogc:lat             "40.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Carcabazos\"" .
+
+<http://localhost/collections/1/features/485100>
+        ogc:lat             "38.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sierra Prieta\"" .
+
+<http://localhost/collections/1/features/1762530>
+        ogc:lat             "42.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.64"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Regata San Urbano\"" .
+
+<http://localhost/collections/1/features/2284590>
+        ogc:lat             "38.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Collado de las Colmenas\"" .
+
+<http://localhost/collections/1/features/2206050>
+        ogc:lat             "39.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Reguera del Molino\"" .
+
+<http://localhost/collections/1/features/1660890>
+        ogc:lat             "43.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pico Lovio\"" .
+
+<http://localhost/collections/1/features/2340030>
+        ogc:lat             "37.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.38"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Casa del Eucalipto\"" .
+
+<http://localhost/collections/1/features/226380>
+        ogc:lat             "41.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Planos\"" .
+
+<http://localhost/collections/1/features/71610>
+        ogc:lat             "42.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Irlatxo\"" .
+
+<http://localhost/collections/1/features/2721180>
+        ogc:lat             "42.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"San Lourenzo (San Lourenzo)\"" .
+
+<http://localhost/collections/1/features/360360>
+        ogc:lat             "40.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Majada de los Bueyes\"" .
+
+<http://localhost/collections/1/features/438900>
+        ogc:lat             "39.7"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Monte de Alcol\"" .
+
+<http://localhost/collections/1/features/210210>
+        ogc:lat             "41.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"A Poza\"" .
+
+<http://localhost/collections/1/features/1679370>
+        ogc:lat             "43.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Estaci�n de Cesuras\"" .
+
+<http://localhost/collections/1/features/487410>
+        ogc:lat             "38.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Tollo\"" .
+
+<http://localhost/collections/1/features/3305610>
+        ogc:lat             "40.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.06"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Latosa\"" .
+
+<http://localhost/collections/1/features/2825130>
+        ogc:lat             "43.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"O Outeiro\"" .
+
+<http://localhost/collections/1/features/434280>
+        ogc:lat             "39.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Coto Alto\"" .
+
+<http://localhost/collections/1/features/73920>
+        ogc:lat             "42.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Auneko Oihana\"" .
+
+<http://localhost/collections/1/features/2185260>
+        ogc:lat             "39.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Enebrillo\"" .
+
+<http://localhost/collections/1/features/362670>
+        ogc:lat             "40.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Berrocal\"" .
+
+<http://localhost/collections/1/features/127050>
+        ogc:lat             "42.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Panable\"" .
+
+<http://localhost/collections/1/features/2416260>
+        ogc:lat             "36.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Molino de Cauche\"" .
+
+<http://localhost/collections/1/features/261030>
+        ogc:lat             "41.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.8"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro Tobares\"" .
+
+<http://localhost/collections/1/features/110880>
+        ogc:lat             "42.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Campiello\"" .
+
+<http://localhost/collections/1/features/3307920>
+        ogc:lat             "39.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.59"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pir�n\"" .
+
+<http://localhost/collections/1/features/1737120>
+        ogc:lat             "43.1"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Sasieta\"" .
+
+<http://localhost/collections/1/features/2827440>
+        ogc:lat             "43.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"As Parruchas\"" .
+
+<http://localhost/collections/1/features/2259180>
+        ogc:lat             "38.64"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de la Hermosilla\"" .
+
+<http://localhost/collections/1/features/436590>
+        ogc:lat             "39.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pozo Guisasola\"" .
+
+<http://localhost/collections/1/features/2344650>
+        ogc:lat             "37.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.56"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de los �rreos\"" .
+
+<http://localhost/collections/1/features/2393160>
+        ogc:lat             "37.29"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.96"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Barranco del Hoyo\"" .
+
+<http://localhost/collections/1/features/570570>
+        ogc:lat             "41.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Parrilla\"" .
+
+<http://localhost/collections/1/features/2109030>
+        ogc:lat             "40.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mas�a de la Loma\"" .
+
+<http://localhost/collections/1/features/2037420>
+        ogc:lat             "40.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Regato de las Robledizas\"" .
+
+<http://localhost/collections/1/features/420420>
+        ogc:lat             "39.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Honduras\"" .
+
+<http://localhost/collections/1/features/263340>
+        ogc:lat             "41.54"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pe�a Menor\"" .
+
+<http://localhost/collections/1/features/1739430>
+        ogc:lat             "43.1"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Otxaingorosti Erreka\"" .
+
+<http://localhost/collections/1/features/589050>
+        ogc:lat             "36.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Loma del Salado\"" .
+
+<http://localhost/collections/1/features/2395470>
+        ogc:lat             "37.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro Castillo\"" .
+
+<http://localhost/collections/1/features/1873410>
+        ogc:lat             "42.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Coromina\"" .
+
+<http://localhost/collections/1/features/1667820>
+        ogc:lat             "43.43"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Isla de Almenada\"" .
+
+<http://localhost/collections/1/features/2189880>
+        ogc:lat             "39.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Bodega de Don Pascual\"" .
+
+<http://localhost/collections/1/features/572880>
+        ogc:lat             "37.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Morr�n del Peral\"" .
+
+<http://localhost/collections/1/features/48510>
+        ogc:lat             "43.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Busta\"" .
+
+<http://localhost/collections/1/features/2402400>
+        ogc:lat             "37.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pasada de la Estacada\"" .
+
+<http://localhost/collections/1/features/337260>
+        ogc:lat             "40.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cuadrejones\"" .
+
+<http://localhost/collections/1/features/2245320>
+        ogc:lat             "38.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de la Plata\"" .
+
+<http://localhost/collections/1/features/422730>
+        ogc:lat             "39.96"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Degollada\"" .
+
+<http://localhost/collections/1/features/2711940>
+        ogc:lat             "39.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Olocau\"" .
+
+<http://localhost/collections/1/features/471240>
+        ogc:lat             "39.24"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"San Agust�n\"" .
+
+<http://localhost/collections/1/features/265650>
+        ogc:lat             "41.64"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.26"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Borroya\"" .
+
+<http://localhost/collections/1/features/115500>
+        ogc:lat             "42.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Primera Valleja\"" .
+
+<http://localhost/collections/1/features/1875720>
+        ogc:lat             "42.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Deri\"" .
+
+<http://localhost/collections/1/features/2404710>
+        ogc:lat             "37.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo de Meseta Chica\"" .
+
+<http://localhost/collections/1/features/164010>
+        ogc:lat             "42.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.11"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Prado Concejo\"" .
+
+<http://localhost/collections/1/features/339570>
+        ogc:lat             "40.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pe�a Guijosa\"" .
+
+<http://localhost/collections/1/features/2864400>
+        ogc:lat             "42.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.76"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Balsi�a\"" .
+
+<http://localhost/collections/1/features/2381610>
+        ogc:lat             "37.41"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Valenciano\"" .
+
+<http://localhost/collections/1/features/473550>
+        ogc:lat             "39.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Barrosa\"" .
+
+<http://localhost/collections/1/features/267960>
+        ogc:lat             "41.62"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"L'Alzina\"" .
+
+<http://localhost/collections/1/features/76230>
+        ogc:lat             "42.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Caba�a-Aldea\"" .
+
+<http://localhost/collections/1/features/2811270>
+        ogc:lat             "42.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mollet de Peralada\"" .
+
+<http://localhost/collections/1/features/117810>
+        ogc:lat             "42.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cotillos\"" .
+
+<http://localhost/collections/1/features/166320>
+        ogc:lat             "42.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Valdecea\"" .
+
+<http://localhost/collections/1/features/2249940>
+        ogc:lat             "38.68"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ermita del Picayo\"" .
+
+<http://localhost/collections/1/features/577500>
+        ogc:lat             "36.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Loma de la Rosa\"" .
+
+<http://localhost/collections/1/features/2866710>
+        ogc:lat             "42.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Vilanova\"" .
+
+<http://localhost/collections/1/features/113190>
+        ogc:lat             "42.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Juncal\"" .
+
+<http://localhost/collections/1/features/2021250>
+        ogc:lat             "41.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.34"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino de Villoria\"" .
+
+<http://localhost/collections/1/features/475860>
+        ogc:lat             "39.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Navazo\"" .
+
+<http://localhost/collections/1/features/1723260>
+        ogc:lat             "43.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.79"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ermita del �ngel\"" .
+
+<http://localhost/collections/1/features/2813580>
+        ogc:lat             "42.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arizala/Aritzala\"" .
+
+<http://localhost/collections/1/features/325710>
+        ogc:lat             "40.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lombo de la Cibrera\"" .
+
+<http://localhost/collections/1/features/2862090>
+        ogc:lat             "43.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.73"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fontemelga\"" .
+
+<http://localhost/collections/1/features/168630>
+        ogc:lat             "42.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Palominera\"" .
+
+<http://localhost/collections/1/features/1651650>
+        ogc:lat             "43.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Alto da Serra\"" .
+
+<http://localhost/collections/1/features/32340>
+        ogc:lat             "43.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.82"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Gauseta\"" .
+
+<http://localhost/collections/1/features/1977360>
+        ogc:lat             "41.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Ponts de la Guixana\"" .
+
+<http://localhost/collections/1/features/321090>
+        ogc:lat             "41.02"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Aliagosa\"" .
+
+<http://localhost/collections/1/features/1725570>
+        ogc:lat             "43.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.14"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Baucha\"" .
+
+<http://localhost/collections/1/features/1653960>
+        ogc:lat             "43.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rego de Gont�n\"" .
+
+<http://localhost/collections/1/features/34650>
+        ogc:lat             "43.1"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.57"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Gatoi\"" .
+
+<http://localhost/collections/1/features/425040>
+        ogc:lat             "39.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Linch�n\"" .
+
+<http://localhost/collections/1/features/1979670>
+        ogc:lat             "41.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Poc Gros\"" .
+
+<http://localhost/collections/1/features/2176020>
+        ogc:lat             "39.58"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "2.74"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Can Calistro\"" .
+
+<http://localhost/collections/1/features/1829520>
+        ogc:lat             "42.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente de Valdesarras\"" .
+
+<http://localhost/collections/1/features/251790>
+        ogc:lat             "37.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Rinconada\"" .
+
+<http://localhost/collections/1/features/535920>
+        ogc:lat             "37.86"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuente Borrego\"" .
+
+<http://localhost/collections/1/features/60060>
+        ogc:lat             "42.89"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"O Cernado\"" .
+
+<http://localhost/collections/1/features/2407020>
+        ogc:lat             "37.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de los Quemados\"" .
+
+<http://localhost/collections/1/features/101640>
+        ogc:lat             "42.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.78"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Era Artiga\"" .
+
+<http://localhost/collections/1/features/378840>
+        ogc:lat             "41.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.79"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Matilla\"" .
+
+<http://localhost/collections/1/features/36960>
+        ogc:lat             "43.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"As Aveeiras\"" .
+
+<http://localhost/collections/1/features/427350>
+        ogc:lat             "39.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Arquela\"" .
+
+<http://localhost/collections/1/features/150150>
+        ogc:lat             "42.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Extremal\"" .
+
+<http://localhost/collections/1/features/1711710>
+        ogc:lat             "43.19"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.71"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Kanpatxeiko\"" .
+
+<http://localhost/collections/1/features/561330>
+        ogc:lat             "37.32"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Vista Alegre\"" .
+
+<http://localhost/collections/1/features/1965810>
+        ogc:lat             "38.4"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fuencaliente\"" .
+
+<http://localhost/collections/1/features/2409330>
+        ogc:lat             "37.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.67"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijos de Galindo\"" .
+
+<http://localhost/collections/1/features/103950>
+        ogc:lat             "42.61"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Brisiar\"" .
+
+<http://localhost/collections/1/features/254100>
+        ogc:lat             "41.53"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.01"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Perala\"" .
+
+<http://localhost/collections/1/features/2307690>
+        ogc:lat             "38.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de Ceniceros\"" .
+
+<http://localhost/collections/1/features/152460>
+        ogc:lat             "42.45"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Campos del Plano\"" .
+
+<http://localhost/collections/1/features/2060520>
+        ogc:lat             "40.72"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.52"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco del Ventorrillo\"" .
+
+<http://localhost/collections/1/features/2869020>
+        ogc:lat             "42.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cantarr�n\"" .
+
+<http://localhost/collections/1/features/2441670>
+        ogc:lat             "36.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.48"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cortijo del Lobo Alto\"" .
+
+<http://localhost/collections/1/features/478170>
+        ogc:lat             "39.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.17"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Regajos\"" .
+
+<http://localhost/collections/1/features/2852850>
+        ogc:lat             "42.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Domiz\"" .
+
+<http://localhost/collections/1/features/1811040>
+        ogc:lat             "42.65"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.75"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Collado de la Carroza\"" .
+
+<http://localhost/collections/1/features/328020>
+        ogc:lat             "40.96"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.77"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Las Canteras\"" .
+
+<http://localhost/collections/1/features/1690920>
+        ogc:lat             "43.26"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.6"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Pico la Cerr�\"" .
+
+<http://localhost/collections/1/features/2134440>
+        ogc:lat             "39.97"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Camino del Chozo Calaco de los Moros\"" .
+
+<http://localhost/collections/1/features/311850>
+        ogc:lat             "40.79"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.99"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Parral\"" .
+
+<http://localhost/collections/1/features/462000>
+        ogc:lat             "39.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Gana Haciendas\"" .
+
+<http://localhost/collections/1/features/154770>
+        ogc:lat             "42.39"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "1.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Fener de la Coma\"" .
+
+<http://localhost/collections/1/features/2388540>
+        ogc:lat             "37.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.07"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Brazo del Este\"" .
+
+<http://localhost/collections/1/features/1813350>
+        ogc:lat             "42.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.47"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Agulles de Bardamina\"" .
+
+<http://localhost/collections/1/features/228690>
+        ogc:lat             "41.95"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "0.85"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Les Obagues\"" .
+
+<http://localhost/collections/1/features/1656270>
+        ogc:lat             "43.44"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.63"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Molino del Villar\"" .
+
+<http://localhost/collections/1/features/464310>
+        ogc:lat             "39.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "3.04"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Son Morl�\"" .
+
+<http://localhost/collections/1/features/2270730>
+        ogc:lat             "38.66"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-0.2"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Mas d'Ondara\"" .
+
+<http://localhost/collections/1/features/20790>
+        ogc:lat             "38.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-3.23"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Solana\"" .
+
+<http://localhost/collections/1/features/411180>
+        ogc:lat             "40.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-2.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"El Carrilejo\"" .
+
+<http://localhost/collections/1/features/212520>
+        ogc:lat             "41.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Urrieta Cerezal\"" .
+
+<http://localhost/collections/1/features/2162160>
+        ogc:lat             "39.5"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.94"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Rivera de la Torre\"" .
+
+<http://localhost/collections/1/features/140910>
+        ogc:lat             "42.49"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.12"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Ibesa\"" .
+
+<http://localhost/collections/1/features/2289210>
+        ogc:lat             "38.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de las Tapias\"" .
+
+<http://localhost/collections/1/features/1864170>
+        ogc:lat             "42.16"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-1.42"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barranco de la Cruceta\"" .
+
+<http://localhost/collections/1/features/1658580>
+        ogc:lat             "43.36"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.51"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Lanteiro\"" .
+
+<http://localhost/collections/1/features/466620>
+        ogc:lat             "39.33"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cruz del Ejido\"" .
+
+<http://localhost/collections/1/features/39270>
+        ogc:lat             "43.15"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Bustarella\"" .
+
+<http://localhost/collections/1/features/364980>
+        ogc:lat             "40.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-4.13"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Los Severos\"" .
+
+<http://localhost/collections/1/features/1714020>
+        ogc:lat             "43.09"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-8.9"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"R�o de Meanos\"" .
+
+<http://localhost/collections/1/features/214830>
+        ogc:lat             "41.88"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.81"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"La Retuerta\"" .
+
+<http://localhost/collections/1/features/1642410>
+        ogc:lat             "43.55"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-7.37"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"O Outeiro\"" .
+
+<http://localhost/collections/1/features/23100>
+        ogc:lat             "43.18"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Barciv�\"" .

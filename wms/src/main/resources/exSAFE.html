@@ -1,0 +1,85 @@
+<html>
+<head>
+    <title>WMS GetFeatureInfo example (tile layer)</title>
+    <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"></link>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.6.0/ol.css"
+          type="text/css"></link>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.6.0/ol.js"></script>
+
+</head>
+<body>
+
+<div class="container-fluid">
+
+    <div class="row-fluid">
+        <div class="span12">
+            <div id="map" class="map"></div>
+            <div class="span4 offset4 pull-right">
+                <div id="info" class="alert alert-success">
+                    &nbsp;
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script>
+    var wmsSource = new ol.source.TileWMS({
+        url: 'http://localhost:80/cgi-bin/mapserv.exe?map=C:/Users/Elena/workspace/Copy-of-lms-v2/WMS/test/wms/mapfile.map',
+        params: {'LAYERS': 'ngbe'},
+        serverType: 'mapserver',
+        crossOrigin: null
+    });
+
+    var wmsLayer = new ol.layer.Tile({
+        source: wmsSource
+    });
+
+    var view = new ol.View({
+        center: ol.proj.transform([0, 40], 'EPSG:4326', 'EPSG:3857'),
+        zoom: 12
+    });
+
+    var basicLayer = new ol.layer.Tile({
+        source: new ol.source.MapQuest({layer: 'osm'}
+        )
+    });
+
+    var map = new ol.Map({
+        layers: [basicLayer, wmsLayer],
+        target: 'map',
+        view: view
+    });
+
+    map.on('singleclick', function (evt) {
+        document.getElementById('info').innerHTML = '';
+        var viewResolution = /** @type {number} */ (view.getResolution());
+        var url = wmsSource.getGetFeatureInfoUrl(
+                evt.coordinate, viewResolution, 'EPSG:3857',
+                {'INFO_FORMAT': 'text/plain'});
+        if (url) {
+            document.getElementById('info').innerHTML =
+                    //'<iframe  src="' + url + '"></iframe>';
+                    '<FORM METHOD=post ACTION="' + url
+                    + '"><INPUT TYPE=SUBMIT> <INPUT TYPE=RESET></FORM>'
+        }
+    });
+
+    map.on('pointermove', function (evt) {
+        if (evt.dragging) {
+            return;
+        }
+        var pixel = map.getEventPixel(evt.originalEvent);
+        var hit = map.forEachLayerAtPixel(pixel, function (layer) {
+            return true;
+        });
+        map.getTargetElement().style.cursor = hit ? 'pointer' : '';
+    });
+
+</script>
+
+</body>
+</html>

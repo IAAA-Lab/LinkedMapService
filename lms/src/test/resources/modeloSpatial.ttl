@@ -1,0 +1,59 @@
+@prefix geo:   <http://www.opengis.net/ont/geosparql#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix ogc:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://localhost/collections/1/features/2199212>
+        ogc:lat             "39.22"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.08"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"MorrÃ³n del JabalÃ­\"" .
+
+<http://localhost/collections/1/features/2199568>
+        ogc:lat             "39.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.83"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro del ReventÃ³n\"" .
+
+<http://localhost/collections/1/features/2199063>
+        ogc:lat             "39.3"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Descansadero de los Llanos\"" .
+
+<http://localhost/collections/1/features/2199131>
+        ogc:lat             "39.21"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.03"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cancho Blanco\"" .
+
+<http://localhost/collections/1/features/2198918>
+        ogc:lat             "39.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.91"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de la Vaca\"" .
+
+<http://localhost/collections/1/features/2198920>
+        ogc:lat             "39.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-6.0"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de los Cardos\"" .
+
+<http://localhost/collections/1/features/2198914>
+        ogc:lat             "39.27"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.93"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"MorrÃ³n de Valderrapiso\"" .
+
+<http://localhost/collections/1/features/2198919>
+        ogc:lat             "39.28"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.92"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Cerro de las Calenturas\"" .
+
+<http://localhost/collections/1/features/2199609>
+        ogc:lat             "39.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.69"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"PeÃ±a del Castillo\"" .
+
+<http://localhost/collections/1/features/2199008>
+        ogc:lat             "39.25"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.98"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Morra del Chivero\"" .
+
+<http://localhost/collections/1/features/2199501>
+        ogc:lat             "39.31"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        ogc:long            "-5.84"^^<http://www.w3.org/2001/XMLSchema#float> ;
+        skosxl:literalForm  "\"Risco de San Gregorio\"" .
